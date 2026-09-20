@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "976040961798",
+    "project_id": "talon-2e47e",
+    "storage_bucket": "talon-2e47e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976040961798:android:6988ad653a558d8c456087",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKTfiz2vQsXB1HnUavnSZMeE2NCHCLJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976040961798:android:e99b103a6b27fc34456087",
+        "android_client_info": {
+          "package_name": "com.example.talon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKTfiz2vQsXB1HnUavnSZMeE2NCHCLJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976040961798:android:f894254166d96ae5456087",
+        "android_client_info": {
+          "package_name": "com.talon.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKTfiz2vQsXB1HnUavnSZMeE2NCHCLJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

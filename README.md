@@ -1,17 +1,64 @@
-# talon
+# Talon
+A Flutter-based messaging and communication application.
 
-A new Flutter project.
+## Status
+Work in Progress
+Talon is currently under active development. The project focuses on building a modern messaging and communication experience using Flutter and Firebase.
 
-## Getting Started
+## Current Features
+* Splash screen
+* User registration and login interfaces
+* Home screen
+* Messaging interface
+* Contacts interface
+* Settings
+* Profile interface
+* Dark mode
+* Firebase project integration
+* Chat UI and typing interface
+* Call interface
 
-This project is a starting point for a Flutter application.
+## In Progress
+* Firebase authentication
+* Real-time messaging
+* Contacts functionality
+* Profile management
+* Calling functionality
+* Final testing
+* Release build
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
+* **Flutter**
+* **Dart**
+* **Firebase**
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Project Structure
+The application is organized as a Flutter project with support for:
+* Android
+* iOS
+* Web
+* Windows
+* macOS
+* Linux
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Main application code is located in:
+```
+lib/
+├── screens/
+├── services/
+├── theme/
+├── widgets/
+└── main.dart
+```
+
+## Purpose
+Talon is a personal software development project created to gain practical experience in:
+* Flutter application development
+* Firebase integration
+* User interface design
+* Application architecture
+* Real-time communication
+* Mobile application development
+
+## Development
+This project is currently being developed and tested. Features and functionality may change as development continues
